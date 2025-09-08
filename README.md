@@ -10,9 +10,10 @@ In this page you can find the most interesting projects I worked on! ✨
 * [YouTube Video Summarizer](https://github.com/shahnoza871/video-summarizer)
 
  ### Computational Modeling Projects
- * [Solving 2D Laplace Partial Differential Equations](https://github.com/shahnoza871/computational-models/tree/main/2D%20Laplace%20Equation%20Numerical%20Solution)
- * [Explicit Scheme for solving PDEs](https://github.com/shahnoza871/computational-models/tree/main/Explicit%20Scheme)
- * [Thomas Algorithm (Implicit) for numerical solution of PDEs](https://github.com/shahnoza871/computational-models/tree/main/Thomas%20Algorithm)
+ * [Solving Navier-Stokes Equation with FDM for Heat Transfer](https://github.com/shahnoza871/computational-models/tree/main/Navier%20Stokes%20Equation)
+ * [Solving 2D Laplace Partial Differential Equations with FDM](https://github.com/shahnoza871/computational-models/tree/main/2D%20Laplace%20Equation%20Numerical%20Solution)
+ * [FDM with Explicit Scheme for solving PDEs](https://github.com/shahnoza871/computational-models/tree/main/Explicit%20Scheme)
+ * [FDM with Thomas Algorithm (Implicit) for numerical solution of PDEs](https://github.com/shahnoza871/computational-models/tree/main/Thomas%20Algorithm)
 
  ### Optimization
  * [Simmulated Annealing Mets-Heuristic for solving TSP](https://github.com/shahnoza871/simulated-annealing-optimization-for-TSP)
