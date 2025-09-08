@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Shahnoza!
+In this page you can find the most interesting projects I worked on! ✨
 
-<!--
-**shahnoza871/shahnoza871** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Data Science Projects
+* Multiclass Modeling for Income Prediction
+* Credit Fraud Detection
+* LLM Deployment for Sensitive Financial Data Analysis <!-- (data must remain confidential) -->
+* YouTube Video Summarizer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### Computational Modeling Projects
+ * Solving 2D Laplace Partial Differential Equations
+ * Explicit Scheme for solving PDEs
+ * Thomas Algorithm (Implicit) for numerical solution of PDEs
+
+ ### Optimization
+ * Simmulated Annealing Mets-Heuristic for solving TSP
+ * Constrained Newton Algorithm
+ * Gradient Descend vs. Newton Method for Constrained Optimization
+ * Linear Programing with Simplex Method 
