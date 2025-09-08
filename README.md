@@ -4,7 +4,7 @@ In this page you can find the most interesting projects I worked on! ✨
 ---
 
 ### Data Science Projects
-* Multiclass Modeling for Income Prediction
+* [Multiclass Modeling for Income Prediction](https://github.com/shahnoza871/glopop-s-multiclass-modeling/tree/master)
 * Credit Fraud Detection
 * LLM Deployment for Sensitive Financial Data Analysis <!-- (data must remain confidential) -->
 * YouTube Video Summarizer
