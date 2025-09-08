@@ -10,12 +10,12 @@ In this page you can find the most interesting projects I worked on! ✨
 * [YouTube Video Summarizer](https://github.com/shahnoza871/video-summarizer)
 
  ### Computational Modeling Projects
- * Solving 2D Laplace Partial Differential Equations
- * Explicit Scheme for solving PDEs
- * Thomas Algorithm (Implicit) for numerical solution of PDEs
+ * [Solving 2D Laplace Partial Differential Equations](https://github.com/shahnoza871/computational-models/tree/main/2D%20Laplace%20Equation%20Numerical%20Solution)
+ * [Explicit Scheme for solving PDEs](https://github.com/shahnoza871/computational-models/tree/main/Explicit%20Scheme)
+ * [Thomas Algorithm (Implicit) for numerical solution of PDEs](https://github.com/shahnoza871/computational-models/tree/main/Thomas%20Algorithm)
 
  ### Optimization
- * Simmulated Annealing Mets-Heuristic for solving TSP
- * Constrained Newton Algorithm
- * Gradient Descend vs. Newton Method for Constrained Optimization
- * Linear Programing with Simplex Method 
+ * [Simmulated Annealing Mets-Heuristic for solving TSP](https://github.com/shahnoza871/simulated-annealing-optimization-for-TSP)
+ * [Newton Algorithm](https://github.com/shahnoza871/newton-constrained-optimization)
+ * [Gradient Descend vs. Newton Method for Constrained Optimization](https://github.com/shahnoza871/gradieint-descent-vs.-newton-method)
+ * [Linear Programing with Simplex Method](http://github.com/shahnoza871/simplex-method-LP) 
