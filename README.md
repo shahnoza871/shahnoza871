@@ -5,9 +5,9 @@ In this page you can find the most interesting projects I worked on! ✨
 
 ### Data Science Projects
 * [Multiclass Modeling for Income Prediction](https://github.com/shahnoza871/glopop-s-multiclass-modeling/tree/master)
-* Credit Fraud Detection (contains sensitive data)
-* LLM Deployment for Sensitive Financial Data Analysis (contains sensitive data)
 * [YouTube Video Summarizer](https://github.com/shahnoza871/video-summarizer)
+* Credit Fraud Detection
+* Local LLM Assistant Prototype for Financial Data Analysis
 
  ### Computational Modeling Projects
  * [Solving Navier-Stokes Equation with FVM](https://github.com/shahnoza871/computational-models/tree/main/FVM-Navier-Stokes)
