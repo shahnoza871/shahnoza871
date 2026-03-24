@@ -1,6 +1,6 @@
 # Shahnoza Nurubloeva
 
-📧 snurubloeva@gmail.com | 🌐 [github.com/shahnouza871](https://github.com/shahnouza871)  
+📧 snurubloeva@gmail.com | 🌐 [LinkedIn](www.linkedin.com/in/shahnoza-nurubloeva-189635315)  
 📍 Almaty, Kazakhstan | 🛂 Tajikistan
 
 ---
