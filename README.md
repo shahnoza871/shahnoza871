@@ -107,8 +107,7 @@ School of Mechanical Engineering, Gwangju, South Korea
 
 | Category | Skills |
 |----------|--------|
-| **Extensive experience** | Python (PyTorch, Pandas, Sklearn, NumPy, Matplotlib), R (dplyr, caret,
-randomForest, ggplot2), Git, Linux |
+| **Extensive experience** | Python (PyTorch, Pandas, Sklearn, NumPy, Matplotlib), R (dplyr, caret, randomForest, ggplot2), Git, Linux |
 | **Foundational experience** | C++, MySQL, FastAPI, Docker, Ansys Fluent |
 
 ---
