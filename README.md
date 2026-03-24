@@ -118,8 +118,8 @@ School of Mechanical Engineering, Gwangju, South Korea
 - **Russian** – Native or bilingual proficiency
 - **Tajik** – Native or bilingual proficiency
 - **Kazakh** – Basic proficiency
-
-## Other interesting projects I made
+  
+## Projects
 
 ### Data Science Projects
 * [Multiclass Modeling for Income Prediction](https://github.com/shahnoza871/glopop-s-multiclass-modeling/tree/master)
