@@ -82,13 +82,21 @@ School of Mechanical Engineering, Gwangju, South Korea
 
 ---
 
-## Awards & Leadership
+## Certificates & Leadership
 
 ### 2nd Place – AI & ML Hackathon
 *Agartu Space & KIMEP University, Almaty* | *2025*
 
 - In a team of three, prototyped a doctor-supervised AI tool that transforms medical data into personalized food recommendations
 - Implemented data preprocessing, document processing, and logging components for medical analysis
+
+### Participant - Effective Thesis Accelerator Program
+* Jan 2026 - Mar 2026
+
+- Developed my theory of change
+- Built a career path that aligns with my theory of change
+- Learnt research prioritization frameworks
+
 
 ### Founder – Charity Project Supporting Children with Special Needs
 *Dushanbe, Tajikistan* | *2022*
