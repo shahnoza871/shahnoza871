@@ -90,7 +90,7 @@ School of Mechanical Engineering, Gwangju, South Korea
 - In a team of three, prototyped a doctor-supervised AI tool that transforms medical data into personalized food recommendations
 - Implemented data preprocessing, document processing, and logging components for medical analysis
 
-### Participant - Effective Thesis Accelerator Program
+### Participant – Effective Thesis Accelerator Program
 * Jan 2026 - Mar 2026
 
 - Developed my theory of change
