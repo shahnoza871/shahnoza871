@@ -16,6 +16,7 @@
  * [Solving 2D Laplace Partial Differential Equations with FDM](https://github.com/shahnoza871/computational-models/tree/main/2D%20Laplace%20Equation%20Numerical%20Solution)
  * [FDM with Explicit Scheme for solving PDEs](https://github.com/shahnoza871/computational-models/tree/main/Explicit%20Scheme)
  * [FDM with Thomas Algorithm (Implicit) for numerical solution of PDEs](https://github.com/shahnoza871/computational-models/tree/main/Thomas%20Algorithm)
+ * [Parallel Programming Problems (MPI)](https://github.com/shahnoza871/Parallel-Programming-MPI) 
 
  ### Optimization
  * [Simmulated Annealing Meta-Heuristic for solving TSP](https://github.com/shahnoza871/simulated-annealing-optimization-for-TSP)
