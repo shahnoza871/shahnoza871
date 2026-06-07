@@ -114,6 +114,10 @@ numerical simulation.
   
 ## Projects
 
+### Deep Learning
+* Physics-informed machine learning
+* Variational information bottleneck-augmented attention-based neural network (VIBANN)
+
 ### Data Science Projects
 * [Multiclass Modeling for Income Prediction](https://github.com/shahnoza871/glopop-s-multiclass-modeling/tree/master)
 * [YouTube Video Summarizer](https://github.com/shahnoza871/video-summarizer)
