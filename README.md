@@ -1,7 +1,7 @@
 # Projects
 
 ### Deep Learning
-* Physics-informed machine learning
+* Physics-informed machine learning (Incompressible Naview-Stokes equaiton, fluid flow in a 2D stenosis vessel)
 * Variational information bottleneck-augmented attention-based neural network (VIBANN) - tests
 
 ### Data Science Projects
