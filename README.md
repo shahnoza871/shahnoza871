@@ -23,8 +23,6 @@ School of Applied Mathematics, Almaty, Kazakhstan
 School of Mechanical Engineering, Gwangju, South Korea  
 **GPA:** 3.75 / 4.00
 
-**Intended M.Sc. start:** Fall 2026 (confirmation to be provided)
-
 ---
 
 ## Research Experience
