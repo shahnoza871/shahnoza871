@@ -32,25 +32,28 @@ School of Mechanical Engineering, Gwangju, South Korea
 ### Research Assistant – Supercomputer & AI Lab (KBTU)
 *Jan 2026 – Present* | Supervisor: Alibek A. Issakhov
 
-**Project:** Numerical simulation of blood flow in the dynamic porous heterogeneous walls of human arteries, considering physiological characteristics
-
-- Modeled vessel-wall exchange via convection–diffusion and porous-wall dynamics using ANSYS Fluent
-- Implemented species transport with porous media settings
-- Built a reproducible simulation workflow emphasizing units, boundary conditions, parameter sanity checks, and validation habits
-
+**Project:** Effect of tumor micro-environment on nanoparticle drug delivery
+- Build a 2D numerical simulation of drug transport using Eulerian Mixture Multiphase modeling and
+Navier-Stokes equation.
+- Performed validation of concentration field distribution of granular phase using experimental results
+found in literature.
+- Conducted sensitivity analysis of blood and tissue parameters. Found that blood viscosity, fraction of
+extracellular matrix, pressure
 ---
 
 ### Prospective B.Sc. Diploma Project
 *Nov 2025 – Present* | Supervisor: Alibek A. Issakhov
 
-**Project:** Surrogate modeling for unsteady blood flow in 2D stenosed vessel using Physics-Informed Neural Networks (PINNs)
+**Project:** Physics-informed neural networks for incompressible flow modeling in stenosis vessels
 
-| Component | Method & Tools | Outcome |
-|-----------|----------------|--------|
-| **Baseline Implementation** | 2D incompressible Navier–Stokes solved with PINNs in PyTorch; autodiff; custom PDE residual loss | End-to-end PINN baseline on analytically defined stenosed geometry |
-| **Training Optimization** | Boundary-aware interior sampling; residual-guided adaptive resampling; NumPy/Python pipelines | Focused optimization on high-error regions; qualitatively improved convergence |
-| **Validation Pipeline** | Benchmark against classical numerical reference; geometry-parameterized stenosis; error norms (L₂, relative error); post-processing scripts | Evaluation pipeline established for rigorous validation |
-| **Extension (Planned)** | Multi-parameter training (Reynolds number, stenosis severity) | Fast inference for surrogate modeling applications |
+- Build a classical unsupervised PINN model (baseline) for predicting velocity and pressure fields of a
+steady and transient flow in a complex geometry
+- Extended baseline by adaptive LHS sampling, LBFGS optimizer, data processing pipeline improving
+MSE by 32% in a steady case
+- Performed parametrized training of PINN on data with 5 different stenosis severity parameters and
+predicted on an unseen severity, achieving MSE 7.2e-7, relative L2 0.098 for velocity field and MSE
+9.6e-6, relative L2 0.112 for pressure field comparing to benchmark data from experimentally validated
+numerical simulation.
 
 ---
 
@@ -110,22 +113,6 @@ School of Mechanical Engineering, Gwangju, South Korea
 - Collected 2+ tons of paper; raised funds for cancer patients
 
 ---
-
-## Technical Skills
-
-| Category | Skills |
-|----------|--------|
-| **Extensive experience** | Python (PyTorch, Pandas, Sklearn, NumPy, Matplotlib), R (dplyr, caret, randomForest, ggplot2), Git, Linux |
-| **Foundational experience** | C++, MySQL, FastAPI, Docker, Ansys Fluent |
-
----
-
-## Languages
-
-- **English** – Professional working proficiency
-- **Russian** – Native or bilingual proficiency
-- **Tajik** – Native or bilingual proficiency
-- **Kazakh** – Basic proficiency
   
 ## Projects
 
