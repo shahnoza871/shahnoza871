@@ -2,7 +2,7 @@
 
 ### Deep Learning
 * Physics-informed machine learning
-* Variational information bottleneck-augmented attention-based neural network (VIBANN)
+* Variational information bottleneck-augmented attention-based neural network (VIBANN) - tests
 
 ### Data Science Projects
 * [Multiclass Modeling for Income Prediction](https://github.com/shahnoza871/glopop-s-multiclass-modeling/tree/master)
