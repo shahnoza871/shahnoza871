@@ -8,7 +8,7 @@
 * [Multiclass Modeling for Income Prediction](https://github.com/shahnoza871/glopop-s-multiclass-modeling/tree/master)
 * [YouTube Video Summarizer](https://github.com/shahnoza871/video-summarizer)
 * Credit Fraud Detection
-* Local LLM Assistant Prototype for Financial Data Analysis
+* [Local LLM Assistant Prototype for Financial Data Analysis](https://github.com/shahnoza871/LLM-assistant-R)
 
  ### Computational Modeling Projects
  * [Solving Navier-Stokes Equation with FVM](https://github.com/shahnoza871/computational-models/tree/main/FVM-Navier-Stokes)
